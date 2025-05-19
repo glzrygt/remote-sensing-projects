@@ -38,6 +38,27 @@ To assess wildfire-affected areas and burn severity using:
 ## GEE Script
 [👉 Run the code on Google Earth Engine](https://code.earthengine.google.com/0c0639819e8f2eaf075f46541e1dde98)
 
+### Sample Outputs
+
+#### dNBR – Burn Severity (continuous)
+![dNBR Severity](outputs/2ing.png)
+
+#### Classified Burn Severity (4 classes)
+![dNBR Classification](outputs/3ing.png)
+
+#### SAR VV Difference Map
+![SAR VV Change](outputs/Screenshot%202025-05-11%20085801.png)
+
+#### Thresholded SAR Change Mask
+![SAR Threshold](outputs/Screenshot%202025-05-11%20090039.png)
+
+#### Unsupervised K-means Classification
+![Unsupervised](outputs/Screenshot%202025-05-11%20162938.png)
+
+#### Random Forest – Training Polygons
+![RF Polygons](outputs/Screenshot%202025-05-11%20180117.png)
+
+
 ##References
 - Chuvieco, E., et al. (2006). *Use of a radiative transfer model to simulate the postfire spectral response to burn severity*. Remote Sensing of Environment, 103(3), 312–325. https://doi.org/10.1016/j.rse.2005.08.013  
 - Copernicus EMS (2024). *Wildfire rapid mapping activation EMSR746*. https://emergency.copernicus.eu/mapping/list-of-components/EMSR746  
