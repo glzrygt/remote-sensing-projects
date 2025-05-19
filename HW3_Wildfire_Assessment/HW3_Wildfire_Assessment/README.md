@@ -1,9 +1,6 @@
-> 📄 This report was submitted as coursework for the GMT441 course at Hacettepe University.  
+> This report was submitted as coursework for the GMT441 course at Hacettepe University.  
 > The content represents the author's individual academic work. Please do not reuse without citation.
-# HW3 – Wildfire Damage Assessment in Attica, Greece
-
-This project was conducted as part of the GMT441 "Applications of Remote Sensing" course at Hacettepe University.
-
+Wildfire Damage Assessment in Attica, Greece
 ##Objective
 To assess wildfire-affected areas and burn severity using:
 - Sentinel-2 (optical) for NBR and delta NBR (dNBR)
@@ -69,6 +66,6 @@ To assess wildfire-affected areas and burn severity using:
 - Tariq, A., et al. (2021). *SAR-based forest fire analysis in Pakistan*. Remote Sensing, 13(12), 2386. https://doi.org/10.3390/rs13122386  
 - Veraverbeke, S., et al. (2014). *An alternative index for rapid fire severity assessment*. Remote Sensing of Environment, 123, 234–245. https://doi.org/10.1016/j.rse.2012.03.024
 
-- 📄 The full written report is available upon request.  
+- The full written report is available upon request.  
 Please contact the author for access. Only the core outputs and methodology are publicly displayed here.
 
