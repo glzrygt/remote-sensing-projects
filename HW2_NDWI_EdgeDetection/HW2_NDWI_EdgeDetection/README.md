@@ -1,4 +1,4 @@
-📄 This report was submitted as coursework for the GMT441 course at Hacettepe University.
+This report was submitted as coursework for the GMT441 course at Hacettepe University.
 The content represents the author's individual academic work. Please do not reuse without citation.
 Water Body Extraction & Edge Detection with NDWI
 
@@ -36,3 +36,5 @@ To extract water bodies and delineate their boundaries using:
 ##Resources
 - [NAIP Dataset Info](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ)
 - [GEE Script (optional)](https://code.earthengine.google.com/9529314a6615043f943ce2e28ef77543)
+- The full written report is available upon request.
+Please contact the author for access. Only the core outputs and methodology are publicly displayed here.
