@@ -1,3 +1,5 @@
+> 📄 This report was submitted as coursework for the GMT441 course at Hacettepe University.  
+> The content represents the author's individual academic work. Please do not reuse without citation.
 # HW3 – Wildfire Damage Assessment in Attica, Greece
 
 This project was conducted as part of the GMT441 "Applications of Remote Sensing" course at Hacettepe University.
