@@ -1,7 +1,6 @@
-
-# HW2 – Water Body Extraction & Edge Detection with NDWI
-
-This project was developed as part of the GMT447 "Digital Image Processing" course at Hacettepe University.
+📄 This report was submitted as coursework for the GMT441 course at Hacettepe University.
+The content represents the author's individual academic work. Please do not reuse without citation.
+Water Body Extraction & Edge Detection with NDWI
 
 ##Objective
 To extract water bodies and delineate their boundaries using:
