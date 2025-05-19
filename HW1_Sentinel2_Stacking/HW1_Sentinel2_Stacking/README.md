@@ -32,3 +32,7 @@ To process Sentinel-2 Level-2A imagery using Google Earth Engine (GEE) for:
 
 ##Note
 Correlation values revealed high redundancy among visible bands (e.g., Blue-Green: 0.86) and complementarity with SWIR bands (r ≈ 0.01), highlighting the spectral diversity and importance of combining bands in remote sensing tasks.
+The exported file is named
+GMT447_Stacked_Manavgat.tif, and is accessible via the following Google Drive link:
+https://drive.google.com/file/d/1kDQ4j7-QuSY3B33TES4DSsYbIG6yAAe9/view?usp=drive_link
+
