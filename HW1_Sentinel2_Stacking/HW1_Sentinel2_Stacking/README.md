@@ -1,7 +1,6 @@
-# HW1 – Sentinel-2 Stacking & Spectral Analysis
-
-This project was conducted as part of the GMT447 "Digital Image Processing" course at Hacettepe University.
-
+Sentinel-2 Stacking & Spectral Analysis
+This report was submitted as coursework for the GMT441 course at Hacettepe University.
+The content represents the author's individual academic work. Please do not reuse without citation.
 ##Objective
 To process Sentinel-2 Level-2A imagery using Google Earth Engine (GEE) for:
 - Cloud-filtered image selection
@@ -35,4 +34,5 @@ Correlation values revealed high redundancy among visible bands (e.g., Blue-Gree
 The exported file is named
 GMT447_Stacked_Manavgat.tif, and is accessible via the following Google Drive link:
 https://drive.google.com/file/d/1kDQ4j7-QuSY3B33TES4DSsYbIG6yAAe9/view?usp=drive_link
-
+The full written report is available upon request.
+Please contact the author for access. Only the core outputs and methodology are publicly displayed here.
