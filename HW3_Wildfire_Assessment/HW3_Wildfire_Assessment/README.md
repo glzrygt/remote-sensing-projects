@@ -47,3 +47,7 @@ To assess wildfire-affected areas and burn severity using:
 - Smith, A. M. S., et al. (2005). *Retrospective fire severity estimation in savannahs*. Remote Sensing of Environment, 97(1), 92–115. https://doi.org/10.1016/j.rse.2005.04.014  
 - Tariq, A., et al. (2021). *SAR-based forest fire analysis in Pakistan*. Remote Sensing, 13(12), 2386. https://doi.org/10.3390/rs13122386  
 - Veraverbeke, S., et al. (2014). *An alternative index for rapid fire severity assessment*. Remote Sensing of Environment, 123, 234–245. https://doi.org/10.1016/j.rse.2012.03.024
+
+- 📄 The full written report is available upon request.  
+Please contact the author for access. Only the core outputs and methodology are publicly displayed here.
+
