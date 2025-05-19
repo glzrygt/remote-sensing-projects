@@ -33,6 +33,24 @@ To extract water bodies and delineate their boundaries using:
 - Thresholding successfully isolated water-land edges
 - Urban-vegetation transitions introduced minor noise (noted in Discussion)
 
+  ### Sample Outputs
+
+#### Pre-Fire RGB Image  
+![Pre-Fire](outputs/1.png)
+
+#### NDWI Index Result  
+![NDWI](outputs/2.png)
+
+#### Smoothed NDWI  
+![Smoothed NDWI](outputs/3.png)
+
+#### Sobel Gradient Magnitude  
+![Gradient](outputs/4.png)
+
+#### Thresholded Edge Detection  
+![Thresholded](outputs/5.png)
+
+
 ##Resources
 - [NAIP Dataset Info](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ)
 - [GEE Script (optional)](https://code.earthengine.google.com/9529314a6615043f943ce2e28ef77543)
