@@ -18,7 +18,7 @@ While optical imagery often fails during storm events due to clouds, this projec
 * **Algorithm:** Applied **Speckle Filtering** (Refined Lee) and **Otsu’s Thresholding** for automatic water classification on GEE.
 
 ### Result Visualization
-*(Flood extent map showing inundated areas in Red vs. permanent water in Blue)*
+*Flood extent map showing the Log-Ratio Method's success  while comparising with the Copernicus Flood Data*
 
 ![Flood Map](Flood-Extent-Mapping-Sentinel1/assets/log-ratio-result-comparison.png)
 
