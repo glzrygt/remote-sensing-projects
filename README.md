@@ -20,7 +20,7 @@ While optical imagery often fails during storm events due to clouds, this projec
 ### Result Visualization
 *(Flood extent map showing inundated areas in Red vs. permanent water in Blue)*
 
-![Flood Map](Flood-Extent-Mapping-Sentinel1/assets/flood_result.png)
+![Flood Map](Flood-Extent-Mapping-Sentinel1/assets/log-ratio-result-comparison.png)
 
 ---
 
